@@ -1,5 +1,5 @@
 {
-  "name": "Fourth-Estate-Newswire-Publisher",
+  "name": "shivcwebco/Fourth-Estate-Newswire-Publisher",
   "description": "Imports news from the Fourth Estate Newswire to WordPress",
   "type": "wordpress-plugin",
   "authors": [
