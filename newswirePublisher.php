@@ -15,7 +15,7 @@
 * Based on:  WordPress Superdesk Publisher originally developed by SourceFabric, AdminIT, Jeffrey Paul, and Douglas Arellanes.
 * 
 */
-namespace newswirePublisher;
+namespace NewswireWordpressPlugin;
 if (!function_exists('add_action')) {
   echo 'Hi there!  I\'m just a simple plugin, not much I can do when called directly.';
   exit;
