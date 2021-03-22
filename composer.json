@@ -1,5 +1,5 @@
 {
-  "name": "newswirePublisher",
+  "name": "Fourth-Estate-Newswire-Publisher",
   "description": "Imports news from the Fourth Estate Newswire to WordPress",
   "type": "wordpress-plugin",
   "authors": [
@@ -13,7 +13,7 @@
   },
   "autoload": {
       "psr-4": {
-          "newswirePublisher\\": "src/newswirePublisher"
+          "newswirePublisher\\": "newswirePublisher"
       }
   },
   "minimum-stability": "stable"
